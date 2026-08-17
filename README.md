@@ -1,4 +1,4 @@
-# seo
+# SEO
 
 A working method for doing SEO when you have commit access to the site.
 
